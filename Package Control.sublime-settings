@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AVR-ASM-Sublime",
+		"C Improved",
+		"C0",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"LaTeXTools",
+		"Load file to REPL",
+		"Material Theme",
+		"Package Control",
+		"Print to HTML",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple Print Function",
+		"Six",
+		"SML (Standard ML)",
+		"SublimeHaskell",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeREPL",
+		"SystemVerilog",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
